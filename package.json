@@ -1,0 +1,42 @@
+{
+    "name": "vscode-theme-vdark",
+    "displayName": "VDark Theme",
+    "description": "Dark, contrast, yet easy on eyes color theme",
+    "version": "1.0.0",
+    "publisher": "Vladeeg",
+    "license": "MIT",
+    "galleryBanner": {
+		"color": "#E8E8E8",
+		"theme": "dark"
+	},
+    "engines": {
+       "vscode": "^1.12.0"
+    },
+    "categories": [
+    "Themes"
+    ],
+    "keywords": [
+        "theme",
+        "dark",
+        "contrast"
+    ],
+    "icon": "icon.png",
+    "contributes": {
+        "themes": [
+            {
+                "label": "VDark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/VDark.json"
+            }
+        ]
+    },
+    "bugs": {
+        "url": "https://github.com/Vladeeg/vscode-theme-vdark/issues",
+        "email": "vladoseeg@gmail.com"
+    },
+    "homepage": "https://github.com/Vladeeg/vscode-theme-vdark",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Vladeeg/vscode-theme-vdark"
+    }
+}
