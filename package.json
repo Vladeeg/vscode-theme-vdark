@@ -2,11 +2,11 @@
     "name": "vscode-theme-vdark",
     "displayName": "VDark Theme",
     "description": "Dark, contrast, yet easy on eyes color theme",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "Vladeeg",
     "license": "MIT",
     "galleryBanner": {
-		"color": "#E8E8E8",
+		"color": "#2A2A2A",
 		"theme": "dark"
 	},
     "engines": {
