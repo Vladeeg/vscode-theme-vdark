@@ -14,7 +14,7 @@
     // Notifications
     "notifications.background": "#2a2a2a",
     "notifications.foreground": "#b3b9c5",
-    "notificationLink.foreground": "#e1a6f2",
+    "notificationLink.foreground": "#d68dec",
     "notifications.border": "#4a4a4a",
     "notificationCenter.border": "#4a4a4a",
     "notificationToast.border": "#4a4a4a",
@@ -174,7 +174,7 @@
     "terminal.ansiBrightGreen": "#92D192",
     "terminal.ansiGreen": "#107833",
     "terminal.ansiBrightMagenta": "#ee60a7",
-    "terminal.ansiMagenta": "#e1a6f2",
+    "terminal.ansiMagenta": "#d68dec",
     "terminal.ansiBrightRed": "#dd5954",
     "terminal.ansiRed": "#f2779c",
     "terminal.ansiBrightWhite": "#2a2a2a",
@@ -245,13 +245,13 @@
     {
       "scope": "entity.name.tag",
       "settings": {
-        "foreground": "#e1a6f2"
+        "foreground": "#d68dec"
       }
     },
     {
       "scope": "entity.name.tag.css",
       "settings": {
-        "foreground": "#e1a6f2"
+        "foreground": "#d68dec"
       }
     },
     {
@@ -307,13 +307,13 @@
       "scope": "markup.italic",
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#4EC9B0"
+        "foreground": "#e0bf62"
       }
     },
     {
       "scope": "markup.inserted",
       "settings": {
-        "foreground": "#4EC9B0"
+        "foreground": "#e0bf62"
       }
     },
     {
@@ -331,7 +331,7 @@
     {
       "scope": "punctuation.definition.quote.begin.markdown",
       "settings": {
-        "foreground": "#4EC9B0"
+        "foreground": "#e0bf62"
       }
     },
     {
@@ -350,7 +350,7 @@
       "name": "brackets of XML/HTML tags",
       "scope": "punctuation.definition.tag",
       "settings": {
-        "foreground": "#e1a6f2"
+        "foreground": "#d68dec"
       }
     },
     {
@@ -377,7 +377,7 @@
     {
       "scope": "meta.structure.dictionary.key.python",
       "settings": {
-        "foreground": "#e1a6f2"
+        "foreground": "#d68dec"
       }
     },
     {
@@ -389,13 +389,13 @@
     {
       "scope": "storage",
       "settings": {
-        "foreground": "#e1a6f2"
+        "foreground": "#d68dec"
       }
     },
     {
       "scope": "storage.type",
       "settings": {
-        "foreground": "#e1a6f2"
+        "foreground": "#d68dec"
       }
     },
     {
@@ -404,7 +404,7 @@
         "keyword.operator.noexcept"
       ],
       "settings": {
-        "foreground": "#e1a6f2"
+        "foreground": "#d68dec"
       }
     },
     {
@@ -431,7 +431,7 @@
     {
       "scope": "string.regexp",
       "settings": {
-        "foreground": "#4EC9B0"
+        "foreground": "#e0bf62"
       }
     },
     {
@@ -463,7 +463,7 @@
         "source.coffee.embedded"
       ],
       "settings": {
-        "foreground": "#e1a6f2"
+        "foreground": "#d68dec"
       }
     },
     {
@@ -475,19 +475,19 @@
     {
       "scope": "keyword",
       "settings": {
-        "foreground": "#e1a6f2"
+        "foreground": "#d68dec"
       }
     },
     {
       "scope": "keyword.control",
       "settings": {
-        "foreground": "#e1a6f2"
+        "foreground": "#d68dec"
       }
     },
     {
       "scope": "keyword.operator",
       "settings": {
-        "foreground": "#e1a6f2"
+        "foreground": "#d68dec"
       }
     },
     {
@@ -504,13 +504,13 @@
         "keyword.operator.wordlike"
       ],
       "settings": {
-        "foreground": "#e1a6f2"
+        "foreground": "#d68dec"
       }
     },
     {
       "scope": "keyword.other.unit",
       "settings": {
-        "foreground": "#e1a6f2"
+        "foreground": "#d68dec"
       }
     },
     {
@@ -610,7 +610,7 @@
         "storage.type.primitive.groovy"
       ],
       "settings": {
-        "foreground": "#e1a6f2"
+        "foreground": "#d68dec"
       }
     },
     {
@@ -630,7 +630,7 @@
       "name": "Meta Function Call",
       "scope": "meta.function-call",
       "settings": {
-        "foreground": "#4EC9B0"
+        "foreground": "#e0bf62"
       }
     },
     {
@@ -669,7 +669,7 @@
         "entity.name.operator"
       ],
       "settings": {
-        "foreground": "#e1a6f2"
+        "foreground": "#d68dec"
       }
     },
     {
@@ -697,7 +697,7 @@
         "variable.other.property"
       ],
       "settings": {
-        "foreground": "#4EC9B0"
+        "foreground": "#e0bf62"
       }
     },
     {
